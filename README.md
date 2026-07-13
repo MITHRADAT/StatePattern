@@ -1,3 +1,3 @@
-#State Patern
-##an object oriented design pattern
-###implemented in rust :)
+# State Patern
+## an object oriented design pattern
+### implemented in rust :)
